@@ -1,6 +1,8 @@
 # Module imports
 
 $tree
+
+```
 .
 |-- main.py
 |-- A
@@ -12,6 +14,7 @@ $tree
 |       `-- script1.py
 
 3 directories, 5 files
+```
 
 # sys path append
 
